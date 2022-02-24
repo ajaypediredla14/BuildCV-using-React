@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/BuildCV-using-React/static/css/main.cb89cba9.chunk.css",
-    "main.js": "/BuildCV-using-React/static/js/main.01dea205.chunk.js",
-    "main.js.map": "/BuildCV-using-React/static/js/main.01dea205.chunk.js.map",
+    "main.css": "/BuildCV-using-React/static/css/main.4e8a352a.chunk.css",
+    "main.js": "/BuildCV-using-React/static/js/main.25951a77.chunk.js",
+    "main.js.map": "/BuildCV-using-React/static/js/main.25951a77.chunk.js.map",
     "runtime-main.js": "/BuildCV-using-React/static/js/runtime-main.a60636b2.js",
     "runtime-main.js.map": "/BuildCV-using-React/static/js/runtime-main.a60636b2.js.map",
     "static/css/2.27dd871e.chunk.css": "/BuildCV-using-React/static/css/2.27dd871e.chunk.css",
-    "static/js/2.f4748f4e.chunk.js": "/BuildCV-using-React/static/js/2.f4748f4e.chunk.js",
-    "static/js/2.f4748f4e.chunk.js.map": "/BuildCV-using-React/static/js/2.f4748f4e.chunk.js.map",
+    "static/js/2.709625e9.chunk.js": "/BuildCV-using-React/static/js/2.709625e9.chunk.js",
+    "static/js/2.709625e9.chunk.js.map": "/BuildCV-using-React/static/js/2.709625e9.chunk.js.map",
     "static/js/3.c0c86148.chunk.js": "/BuildCV-using-React/static/js/3.c0c86148.chunk.js",
     "static/js/3.c0c86148.chunk.js.map": "/BuildCV-using-React/static/js/3.c0c86148.chunk.js.map",
     "index.html": "/BuildCV-using-React/index.html",
     "static/css/2.27dd871e.chunk.css.map": "/BuildCV-using-React/static/css/2.27dd871e.chunk.css.map",
-    "static/css/main.cb89cba9.chunk.css.map": "/BuildCV-using-React/static/css/main.cb89cba9.chunk.css.map",
-    "static/js/2.f4748f4e.chunk.js.LICENSE.txt": "/BuildCV-using-React/static/js/2.f4748f4e.chunk.js.LICENSE.txt",
+    "static/css/main.4e8a352a.chunk.css.map": "/BuildCV-using-React/static/css/main.4e8a352a.chunk.css.map",
+    "static/js/2.709625e9.chunk.js.LICENSE.txt": "/BuildCV-using-React/static/js/2.709625e9.chunk.js.LICENSE.txt",
     "static/media/JQMS.4da54020.PNG": "/BuildCV-using-React/static/media/JQMS.4da54020.PNG",
     "static/media/PT.523c7a53.PNG": "/BuildCV-using-React/static/media/PT.523c7a53.PNG",
     "static/media/SPS.9dd76bea.PNG": "/BuildCV-using-React/static/media/SPS.9dd76bea.PNG",
@@ -25,8 +25,8 @@
   "entrypoints": [
     "static/js/runtime-main.a60636b2.js",
     "static/css/2.27dd871e.chunk.css",
-    "static/js/2.f4748f4e.chunk.js",
-    "static/css/main.cb89cba9.chunk.css",
-    "static/js/main.01dea205.chunk.js"
+    "static/js/2.709625e9.chunk.js",
+    "static/css/main.4e8a352a.chunk.css",
+    "static/js/main.25951a77.chunk.js"
   ]
 }
