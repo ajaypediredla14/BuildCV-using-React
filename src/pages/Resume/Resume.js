@@ -39,7 +39,7 @@ class Form extends Component {
 			message: event.target.value
 		}) 
 	}
-	handleSubmit = event=> {
+	handleSubmitChange = event=> {
 		// alert(`${this.state.name} ${this.state.email} ${this.state.message}`);
 		event.preventDefault();
 		const data = JSON.stringify({

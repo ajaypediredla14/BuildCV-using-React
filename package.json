@@ -2,7 +2,7 @@
   "name": "last",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://jay-498.github.io",
+  "homepage": "https://jay-498.github.io/BuildCV-using-React",
   "dependencies": {
     "@material-ui/core": "^4.11.3",
     "@material-ui/icons": "^4.11.2",

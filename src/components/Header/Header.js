@@ -1,14 +1,14 @@
 import React from 'react';
 import {Nav,Navbar} from 'react-bootstrap';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import {NavLink} from 'react-router-dom';
+import {NavLink,withRouter,useLocation} from 'react-router-dom';
 import {HomeRounded,WhatsApp} from '@material-ui/icons';
 import resumeData from "../../utils/resumeData";
 import CustButton from '../Button/Button';
 import './Header.css';
 
-const Header = (props) => {
-	const pathName = props?.location?.pathname;
+const Header = () => {
+	const pathName = useLocation().pathname;
 	return (
 		<Navbar expand='lg' sticky='top' className='header'>
 			<Nav.Link as={NavLink} to='/' className='header_navlink'>
@@ -19,10 +19,10 @@ const Header = (props) => {
 			<Navbar.Toggle />
 			<Navbar.Collapse>
 				<Nav className='header_left'>
-				<Nav.Link as={NavLink} to="/" className={pathName === "/portfolio" ? "header_link" : "header_link_active"}>
+				<Nav.Link as={NavLink} to="/" className={pathName=="/" ? "header_link_active" : "header_link"}>
 				Resume
 				</Nav.Link>
-				<Nav.Link as={NavLink} to="/portfolio" className={pathName === "/portfolio" ? "header_link_active" : "header_link"}>
+				<Nav.Link as={NavLink} to="/portfolio" className={pathName == "/portfolio" ? "header_link_active" : "header_link"}>
 				Portfolio
 				</Nav.Link>
 				</Nav>
@@ -40,4 +40,4 @@ const Header = (props) => {
 		);
 };
 
-export default Header;
+export default withRouter(Header);

@@ -8,7 +8,7 @@
 
 .header .header_link{
 	font-weight: 500;
-	color: darkslategray;
+	color: darkslategray !important;
 }
 
 .header .header_navlink{
@@ -16,7 +16,7 @@
 }
 
 .header .header_link:hover{
-	color: var(--main-color) ;
+	color: var(--main-color) !important;
 }
 
 .header .header_link_active{
