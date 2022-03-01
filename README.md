@@ -7,7 +7,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 Personal Resume-portfolio Website using Reactjs.
 
 ## Demo Run
-[Live Run](https://jay-498.github.io/IBuildCV-using-React/)
+[Live Run](https://jay-498.github.io/BuildCV-using-React/)
 
 ## Available Scripts
 
