@@ -15,13 +15,13 @@ import SPS from "./SPS.PNG";
 
 export default{
 	name: 'Ajay Pediredla',
-	title: 'Software Developer',
+	title: 'Full Stack Developer',
 	birthday: '27 April 2001',
 	college: 'Jawaharlal Nehru University (New Delhi)',
 	email: 'pedire41_soe@jnu.ac.in',
-	phone: '9390181313',
-	address: '533408 East Godavari,Andhra Pradesh',
-	about: 'I am Currently Graduating in Electronics and Communication engineering from JNU Delhi. I spend my whole day, practically everyday, experimenting with Huge lines of code. I am always energetic and eager to learn new skills and always highly enthused about my work and tasks ahead besides these I have experience working as part of a team and Individually.',
+	phone: '8143232797',
+	address: '533408 Kakinada,Andhra Pradesh',
+	about: 'I am Currently Graduating in Electronics and Communication engineering from JNU Delhi. I spend my whole day, practically everyday, experimenting with huge lines of code. I am always energetic and eager to learn new skills and always highly enthused about my work and tasks ahead besides these I have experience working as part of a team and Individually.',
 	socials:{
 		Insta: {
 			link: 'https://www.instagram.com/_ajay_pediredla__/',
@@ -46,9 +46,9 @@ export default{
 	},
 	experiences: [
 		{
-			title:'GSWOC ’21',
-			date: '09/2021-present',
-			description: 'I am selected to be a part of GirlScript Winter of Contributing, an  Open Source program and will contribute my skills and knowledge to make the world’s largest multilingual repository. ',
+			title:'Research Intern at MIDAS IIITD',
+			date: '03/2022-present',
+			description: 'I am selected as Reactjs Developer as a part of contributing to the frontend development of Kyron application a kind of test management system.',
 		},
 		{
 			title:'Web Development Intern',
@@ -102,6 +102,7 @@ export default{
 			'HTML-CSS',
 			'UI/UX',
 			'ReactJS',
+			'VueJS',
 			'jQuery',
 			'Bootstrap',
 		],
@@ -116,7 +117,7 @@ export default{
 	},
 	{
 		title: 'LANGUAGES',
-		description: ['C','Python', 'Javascript' , 'DS & Algo(c)'],
+		description: ['C++','Python', 'Javascript' , 'DS & Algo(c)'],
 	},
 	],
 	projects: [
