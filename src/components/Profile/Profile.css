@@ -17,8 +17,10 @@
 }
 
 .profile_name .title{
-	font-size: 13px;
+	font-size: 14px;
 	color: #777;
+	font-family: 'Poppins';
+	font-weight: bold;
 }
 
 .profile_image{

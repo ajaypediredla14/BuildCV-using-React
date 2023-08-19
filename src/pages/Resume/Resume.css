@@ -46,6 +46,8 @@
 .service{
 	height: 100%;
 	text-align: center;
+	padding: 10px;
+	background-color: azure !important;
 }
 
 .service .service_title{

@@ -19,7 +19,7 @@ const CustTimeline = ({title, icon, children}) => {
           <TimelineConnector />
         </TimelineSeparator>
         <TimelineContent>
-        <Typography varient="h6" className={"timeline_header"}>
+        <Typography varient="h5 pt_10" className={"timeline_header"}>
         {title}
         </Typography>
         </TimelineContent>

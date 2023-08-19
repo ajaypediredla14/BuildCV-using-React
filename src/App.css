@@ -2,6 +2,10 @@
   --main-color: #FA8072;
 }
 
+/* .App{
+  font-family: 'Times New Roman', Times, serif;
+} */
+
 
 .top_60{
   margin-top: 60px !important;
@@ -24,12 +28,20 @@
   padding-top: 45px !important;
 }
 
+.pt_10{
+  padding-top: 10px !important;
+}
+
 .mb_30{
   margin-bottom: 30px !important;
 }
 
 .mb_20{
-  margin-bottom: 30px !important;
+  margin-bottom: 20px !important;
+}
+
+.mb_10{
+  margin-bottom: 10px !important;
 }
 
 .p_50{
@@ -65,18 +77,20 @@
 
 .section_title .section_title_text{
   font-size: 18px;
-  font-weight: 600;
+  font-weight: 700;
   position: relative;
-  margin: 0;
+  margin: 0 0 5px 0px;
+
 }
 
 .section_title span{
   position: absolute;
-  height: 7px;
+  height: 2px;
   width: 100%;
   bottom: 0;
   opacity: 0.4;
   left: 0;
+  border-radius: 100%;
   background-color: var(--main-color);
 }
 
