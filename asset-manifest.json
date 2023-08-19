@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/BuildCV-using-React/static/css/main.ab73a89e.chunk.css",
-    "main.js": "/BuildCV-using-React/static/js/main.c5817dbf.chunk.js",
-    "main.js.map": "/BuildCV-using-React/static/js/main.c5817dbf.chunk.js.map",
+    "main.js": "/BuildCV-using-React/static/js/main.fad6f9d1.chunk.js",
+    "main.js.map": "/BuildCV-using-React/static/js/main.fad6f9d1.chunk.js.map",
     "runtime-main.js": "/BuildCV-using-React/static/js/runtime-main.a60636b2.js",
     "runtime-main.js.map": "/BuildCV-using-React/static/js/runtime-main.a60636b2.js.map",
     "static/css/2.27dd871e.chunk.css": "/BuildCV-using-React/static/css/2.27dd871e.chunk.css",
@@ -27,6 +27,6 @@
     "static/css/2.27dd871e.chunk.css",
     "static/js/2.0b972d09.chunk.js",
     "static/css/main.ab73a89e.chunk.css",
-    "static/js/main.c5817dbf.chunk.js"
+    "static/js/main.fad6f9d1.chunk.js"
   ]
 }
